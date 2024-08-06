@@ -6,7 +6,7 @@ Hi there! I’m Akshay Joseph. As a second-year Computer Science and Engineering
 
 ## My Interests
 
-> Programming: I love coding and have experience in languages like Python, Java, and C++. I enjoy solving problems and creating efficient algorithms.
+> Programming: I love coding and have experience in languages like Python, Java, and C. I enjoy solving problems and creating efficient algorithms.
 
 > Web Development: Building websites and web applications is a hobby of mine. I have worked with HTML, CSS, JavaScript, and frameworks like React and Node.js.
 
