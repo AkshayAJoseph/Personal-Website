@@ -5,13 +5,18 @@ format:
   html:
     df-print: paged
     toc: true
-text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-  incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
-  exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
-  irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-  pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
-  deserunt mollit anim id est laborum.
-title: Blogpost Example
+text: 
+title: ഇൻറൺഷിപ്പുകളുടെ പ്രാധാന്യം
 
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+ഇൻറൺഷിപ്പുകൾ വിദ്യാർത്ഥികൾക്കായി ഏറെ പ്രാധാന്യമുള്ളതാണ്. ഇതാ അതിന്റെ ചില കാരണംമങ്ങൾ:
+
+പ്രായോഗിക പരിചയം: ഇൻറൺഷിപ്പുകൾ യഥാർത്ഥ ജോലി പരിചയം നൽകുന്നവയാണ്. ക്ലാസ്സിൽ പഠിച്ചതെല്ലാം ഒരു പ്രൊഫഷണൽ അന്തരീക്ഷത്തിൽ പ്രയോഗിക്കാൻ കഴിയും.
+
+കൗശലങ്ങളുടെ പുരോഗതി: ഇൻറൺഷിപ്പുകൾ വഴി, കമ്മ്യൂണിക്കേഷൻ, പ്രശ്നപരിഹാര, സമയനിയന്ത്രണം തുടങ്ങിയ കൗശലങ്ങളിൽ പുരോഗതി നേടാം.
+
+കണക്ഷനുകൾ: ഇൻറൺഷിപ്പുകൾ പുതിയ ആളുകളെ പരിചയപ്പെടാനുള്ള നല്ല അവസരമാണ്. ഭാവിയിലെ ജോലി വ്യവസ്ഥകളിൽ ഉപകാരപ്പെടുന്ന ബന്ധങ്ങൾ സൃഷ്ടിക്കാം.
+
+കരിയർ ദിശ: യഥാർത്ഥ ജോലിയിൽ പ്രവർത്തിക്കുമ്പോൾ, നിങ്ങളുടെ താൽപര്യങ്ങൾക്കും കഴിവുകൾക്കും അനുയോജ്യമായ ജോലി തരം എളുപ്പത്തിൽ മനസ്സിലാക്കാൻ കഴിയും.
+
+ജോലി തിരച്ചിലിന് സഹായം: ഇൻറൺഷിപ്പ് പരിചയം, ബയോഡാറ്റയിലും ഇന്റർവ്യൂവിലുമെല്ലാം വലിയൊരു ആകർഷണമാണ്. പ്രായോഗിക പരിചയം ഉണ്ടെന്നത് റിക്രൂട്ടർമാർക്ക് വലിയൊരു ആകർഷണമാകുന്നു.
