@@ -42,7 +42,7 @@ website:
     position: below-navbar
 format:
   html:
-    theme: minty
+    theme: solar
     css: styles.css
     toc: true
   
