@@ -23,13 +23,13 @@ website:
     contents:
       - icon: github
         text: Github
-        url: https://github.com
-      - icon: twitter
-        text: Twitter
-        url: https://twitter.com
+        url: https://github.com/AkshayAJoseph
+      - icon: linkedin
+        text: LinkedIn
+        url: https://www.linkedin.com/in/akshay-joseph-668b49285/
       - icon: Email
       - text: "Email"
-        url: mailto:siju.swamy@saintgits.org
+        url: mailto:akshayjoseph003@gmail.com
       - text: "ORCID"
         url: https://orcid.org/<orcid-id>
       - text: "Google Scholar"
@@ -42,7 +42,7 @@ website:
     position: below-navbar
 format:
   html:
-    theme: cosmo
+    theme: minty
     css: styles.css
     toc: true
   
