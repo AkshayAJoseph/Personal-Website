@@ -46,7 +46,7 @@
     "href": "about.html#my-interests",
     "title": "About",
     "section": "My Interests",
-    "text": "My Interests\n\nProgramming: I love coding and have experience in languages like Python, Java, and C++. I enjoy solving problems and creating efficient algorithms.\n\n\nWeb Development: Building websites and web applications is a hobby of mine. I have worked with HTML, CSS, JavaScript, and frameworks like React and Node.js.\n\n\nArtificial Intelligence: The potential of AI fascinates me. I am currently learning about machine learning and data science, and I look forward to contributing to this field.\n\n\nCybersecurity: Understanding the importance of secure systems, I am keen on learning about ethical hacking and cybersecurity measures."
+    "text": "My Interests\n\nProgramming: I love coding and have experience in languages like Python, Java, and C. I enjoy solving problems and creating efficient algorithms.\n\n\nWeb Development: Building websites and web applications is a hobby of mine. I have worked with HTML, CSS, JavaScript, and frameworks like React and Node.js.\n\n\nArtificial Intelligence: The potential of AI fascinates me. I am currently learning about machine learning and data science, and I look forward to contributing to this field.\n\n\nCybersecurity: Understanding the importance of secure systems, I am keen on learning about ethical hacking and cybersecurity measures."
   },
   {
     "objectID": "about.html#blog",
