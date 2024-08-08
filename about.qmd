@@ -23,7 +23,7 @@ As a second-year Computer Science and Engineering student, I’m really passiona
   <h2>Actively Learning</h3>
   <img src="https://skillicons.dev/icons?i=py,aws" alt="skills actively learning logos">
 </div>
-
+<br/>
 ## Blog
 <li><a href="https://akshayajoseph.github.io/My-Space/">Click Here!</a></li>
 I occasionally write about my learning experiences, project updates, and thoughts on the latest trends in technology. Check out my blog for insights and tips!
