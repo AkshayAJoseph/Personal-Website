@@ -1,0 +1,86 @@
+[
+  {
+    "objectID": "workshops.html",
+    "href": "workshops.html",
+    "title": "Workshops Attended",
+    "section": "",
+    "text": "2024\n\nAdvanced Tools for Literate Programming and Machine Learning, August 6-7, 2024"
+  },
+  {
+    "objectID": "posts/post_with_code.html",
+    "href": "posts/post_with_code.html",
+    "title": "A sample work",
+    "section": "",
+    "text": "For a demonstration of a line plot on a polar axis, see Figure 1.\n\n\nCode\nimport numpy as np\nimport matplotlib.pyplot as plt\n\nr = np.arange(0, 2, 0.01)\ntheta = 2 * np.pi * r\nfig, ax = plt.subplots(\n  subplot_kw = {'projection': 'polar'} \n)\nax.plot(theta, r)\nax.set_rticks([0.5, 1, 1.5, 2])\nax.grid(True)\nplt.show()\n\n\n\n\n\n\n\n\nFigure 1: A line plot on a polar axis"
+  },
+  {
+    "objectID": "posts/Mental_health.html",
+    "href": "posts/Mental_health.html",
+    "title": "some",
+    "section": "",
+    "text": "Memory updated Sure! Here’s a draft for your personal homepage content:\nWelcome to My Personal Homepage About Me Hi there! I’m [Your Name], a passionate and driven second-year student pursuing a degree in Computer Science and Engineering. My journey in the world of technology started with a curiosity for how things work, and it’s been an exciting ride ever since. I’m constantly exploring new realms within the field, from software development to artificial intelligence, and I’m eager to share my experiences and projects with you."
+  },
+  {
+    "objectID": "papers.html",
+    "href": "papers.html",
+    "title": "Papers",
+    "section": "",
+    "text": "2024\n\nResearcher (2024). A very Cool AI Paper. arXiv 2402.10951."
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "ഇൻറൺഷിപ്പുകളുടെ പ്രാധാന്യം\n\n\n\n\n\n\nblog post\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nsome\n\n\n\n\n\n\nblog post\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAnother blogpost example\n\n\n\n\n\n\nblog post\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nA sample work\n\n\n\n\n\n\nblog with code\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nகீழே சிக்கன் மண்டி செய்வதற்கான ஒரு ரெசிபி தரப்பட்டுள்ளது. (Recipe to make a delicious Chicken Mandi)\n\n\n\n\n\n\nblog post\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Hi there! I’m Akshay Joseph. As a second-year Computer Science and Engineering student, I’m really passionate about technology and all the amazing things it can do. My fascination with how things work kicked off my journey into this field, and it’s been an exciting adventure ever since. I love diving into new areas, whether it’s coding, exploring software development, or delving into Artificial Intelligence. I’m excited to share what I’m learning and working on with you!"
+  },
+  {
+    "objectID": "about.html#my-interests",
+    "href": "about.html#my-interests",
+    "title": "About",
+    "section": "My Interests",
+    "text": "My Interests\n\nProgramming: I love coding and have experience in languages like Python, Java, and C. I enjoy solving problems and creating efficient algorithms.\n\n\nWeb Development: Building websites and web applications is a hobby of mine. I have worked with HTML, CSS, JavaScript, and frameworks like React and Node.js.\n\n\nArtificial Intelligence: The potential of AI fascinates me. I am currently learning about machine learning and data science, and I look forward to contributing to this field.\n\n\nCybersecurity: Understanding the importance of secure systems, I am keen on learning about ethical hacking and cybersecurity measures."
+  },
+  {
+    "objectID": "about.html#blog",
+    "href": "about.html#blog",
+    "title": "About",
+    "section": "Blog",
+    "text": "Blog\nI occasionally write about my learning experiences, project updates, and thoughts on the latest trends in technology. Check out my blog for insights and tips!"
+  },
+  {
+    "objectID": "about.html#contact-me",
+    "href": "about.html#contact-me",
+    "title": "About",
+    "section": "Contact Me",
+    "text": "Contact Me\nI’m always open to connecting with like-minded individuals and professionals. Feel free to reach out to me via:\n\nEmail: akshayjoseph003@gmail.com\nLinkedIn: https://www.linkedin.com/in/akshay-joseph-668b49285/\nGitHub: https://github.com/AkshayAJoseph"
+  },
+  {
+    "objectID": "posts/another_post.html",
+    "href": "posts/another_post.html",
+    "title": "ഇൻറൺഷിപ്പുകളുടെ പ്രാധാന്യം",
+    "section": "",
+    "text": "ഇൻറൺഷിപ്പുകൾ വിദ്യാർത്ഥികൾക്കായി ഏറെ പ്രാധാന്യമുള്ളതാണ്. ഇതാ അതിന്റെ ചില കാരണംമങ്ങൾ:\nപ്രായോഗിക പരിചയം: ഇൻറൺഷിപ്പുകൾ യഥാർത്ഥ ജോലി പരിചയം നൽകുന്നവയാണ്. ക്ലാസ്സിൽ പഠിച്ചതെല്ലാം ഒരു പ്രൊഫഷണൽ അന്തരീക്ഷത്തിൽ പ്രയോഗിക്കാൻ കഴിയും.\nകൗശലങ്ങളുടെ പുരോഗതി: ഇൻറൺഷിപ്പുകൾ വഴി, കമ്മ്യൂണിക്കേഷൻ, പ്രശ്നപരിഹാര, സമയനിയന്ത്രണം തുടങ്ങിയ കൗശലങ്ങളിൽ പുരോഗതി നേടാം.\nകണക്ഷനുകൾ: ഇൻറൺഷിപ്പുകൾ പുതിയ ആളുകളെ പരിചയപ്പെടാനുള്ള നല്ല അവസരമാണ്. ഭാവിയിലെ ജോലി വ്യവസ്ഥകളിൽ ഉപകാരപ്പെടുന്ന ബന്ധങ്ങൾ സൃഷ്ടിക്കാം.\nകരിയർ ദിശ: യഥാർത്ഥ ജോലിയിൽ പ്രവർത്തിക്കുമ്പോൾ, നിങ്ങളുടെ താൽപര്യങ്ങൾക്കും കഴിവുകൾക്കും അനുയോജ്യമായ ജോലി തരം എളുപ്പത്തിൽ മനസ്സിലാക്കാൻ കഴിയും.\nജോലി തിരച്ചിലിന് സഹായം: ഇൻറൺഷിപ്പ് പരിചയം, ബയോഡാറ്റയിലും ഇന്റർവ്യൂവിലുമെല്ലാം വലിയൊരു ആകർഷണമാണ്. പ്രായോഗിക പരിചയം ഉണ്ടെന്നത് റിക്രൂട്ടർമാർക്ക് വലിയൊരു ആകർഷണമാകുന്നു."
+  },
+  {
+    "objectID": "posts/post.html",
+    "href": "posts/post.html",
+    "title": "Another blogpost example",
+    "section": "",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+  },
+  {
+    "objectID": "posts/recipe.html",
+    "href": "posts/recipe.html",
+    "title": "கீழே சிக்கன் மண்டி செய்வதற்கான ஒரு ரெசிபி தரப்பட்டுள்ளது. (Recipe to make a delicious Chicken Mandi)",
+    "section": "",
+    "text": "சிக்கன் மண்டி ரெசிபி\nபொருட்கள்:\n1 முழு கோழி, பாதியாக நறுக்கப்பட்டு 2 கப் பாஸ்மதி அரிசி 1 பெரிய வெங்காயம், துண்டுகளாக நறுக்கப்பட்டு 4 பூண்டு பற்கள், நறுக்கப்பட்டு 2 தக்காளி, நறுக்கப்பட்டு 2 டேபிள்ஸ்பூன் எண்ணெய் 1 டீஸ்பூன் சாபரண், 2 டேபிள்ஸ்பூன் சூடான நீரில் ஊறவைக்கப்பட்டு 2 இலவங்கப்பட்டை குச்சிகள் 4 ஏலக்காய் பாக்குகள் 4 கிராம்பு 2 பலா இலைகள் 1 டீஸ்பூன் மஞ்சள் தூள் 1 டீஸ்பூன் சீரகம் 1 டீஸ்பூன் மல்லி தூள் உப்பு மற்றும் மிளகு, சுவைக்கேற்றபடி 4 கப் நீர் மண்டி மசாலா தயாரிக்க:\n1 டீஸ்பூன் இலவங்கப்பட்டை தூள் 1 டீஸ்பூன் ஏலக்காய் தூள் 1 டீஸ்பூன் கிராம்பு தூள் 1 டீஸ்பூன் மிளகு தூள் 1 டீஸ்பூன் சீரகம் தூள் தயாரிக்கும் முறை:\nசிக்கன் தயார் செய்ய:\nஒரு பெரிய பாத்திரத்தில், எண்ணெயுடன் மஞ்சள் தூள், சீரகம், மல்லி தூள், உப்பு மற்றும் மிளகை சேர்த்து கலக்கவும். இந்த கலவையை சிக்கனில் நன்றாக தடவவும், ஒரு மணி நேரத்திற்கு குளிரவையில் வைக்கவும். அரிசி தயார் செய்ய:\nஅரிசியை நன்றாக கழுவி, 30 நிமிடங்கள் குளிர்ந்த நீரில் ஊறவைத்து, பின்னர் வடிகட்டி வைக்கவும். பெரிய பாத்திரத்தில், மிதமான சூட்டில் எண்ணெயை சூடாக்கி வெங்காயம் மற்றும் பூண்டை சேர்த்து வதக்கவும். தக்காளி மற்றும் மண்டி மசாலா சேர்த்து 5 நிமிடங்கள் வதக்கவும். அரிசியை சேர்த்து நன்றாக கலக்கவும், பின்னர் நீரைச் சேர்த்து கொதிக்க விடவும். மண்டி தயார் செய்ய:\nஓவன் 180 டிகிரி செல்சியசுக்கு முன்னரிதம் சூடாக்கவும். அரிசி மேலே சிக்கனை வைத்துக்கொள்ளவும். பாத்திரத்தை அலுமினியம் போர்வையால் மூடி, ஓவனில் ஒரு மணி நேரம் அல்லது சிக்கன் நன்றாக வேகும் வரை வைக்கவும். நேரம் முடிந்த பிறகு, அலுமினியப் போர்வையை எடுத்து, சாபரண் நீரை சிக்கனின் மீது பரப்பவும், மேலும் 10 நிமிடங்கள் ஓவனில் வைத்து சிக்கன் பொன்னிறமாகும் வரை வைக்கவும்."
+  }
+]
