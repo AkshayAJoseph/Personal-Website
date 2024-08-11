@@ -4,4 +4,10 @@ title: "Workshops Attended"
 
 ### 2024
 
+- `Workshop on ML, by CODEX’23`, September, 2023
+- `Workshop on AI, by QNAYDS LLP`, November, 2023
+- `Participated in a bootcamp conducted by IEDC@Saintgits`
+- `Workshop on GenAI conducted by GDSE CET`, April 6, 2024
+- `Workshop on SolidWorks Fundamentals and Design for FDM, 3-D printing by IEDC@Saintgits`, April 4, 2024.
+- `Workshop on Unboxing GenAI with LLM by NPTEL+`, July 27, 2024
 - `Advanced Tools for Literate Programming and Machine Learning`, August 6-7, 2024 

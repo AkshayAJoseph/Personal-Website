@@ -4,4 +4,5 @@ title: "Papers"
 
 ### 2024
 
-- Researcher (2024). A very Cool AI Paper. arXiv 2402.10951.
+- `Face Detection project using OpenCV and ML` (December, 2023)
+- `Course on Introduction to OpenShift Applications` (April, 2024)
